@@ -7,6 +7,11 @@ A weekend hackathon inspiration came to be to write a tool to enable me to brows
 
 ## Screenshots/Previews
 
+Shows the option-chain yield chart
+![alt_text](https://github.com/hujanais/options-yield-explorer/blob/main/options-1.PNG)
+
+Shows the 3-yr historical price
+![alt_text](https://github.com/hujanais/options-yield-explorer/blob/main/options-2.PNG)
 
 ## Cash-secured put options
 If you don't know what put options are, just search the term on your favorite search engine for a proper explanation.  
