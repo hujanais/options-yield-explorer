@@ -1,9 +1,9 @@
-# Welcome to Put-Options-Yield-Explorer hackathon
+# Welcome to Call-Put-Options-Yield-Explorer hackathon
 Addendum: I have since added in call-option data as well.  
 
 December 23, 2021
 
-A weekend hackathon inspiration came to be to write a tool to enable me to browse the put-options premiums on some of my favorite stocks to see if I can collect some premiums while I wait for the prices to come down to my entry buy range.  What the heck you say I am doing this during the holidays?  Plan A: skiiing with the family, Plan B, son back from college with a positive Covid-test, family quarantine, write code.  
+A weekend hackathon inspiration came to be to write a tool to enable me to browse the put-options premiums on some of my favorite stocks to see if I can collect some premiums while I wait for the prices to come down to my entry buy range.  What the heck you ask am I doing this during the holidays?  Plan A: skiiing with the family, Plan B, son back from college with a positive Covid-test, family quarantine, write code.  
 
 **[Disclaimer: This is purely for me to mess around with coding and deployment and this is not financial advice and any purported financial tool for the public.  This is solely written for myself**]
 
