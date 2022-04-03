@@ -12,7 +12,7 @@ Server Source Code: [Python server code](https://github.com/hujanais/options-yie
 
 UI Source Code: [Angular 13 UI code](https://github.com/hujanais/options-yield-ui)
 
-### [Go to hosted site](https://options-yield-ui.vercel.app/)
+### [Go to hosted site @ https://options-yield-ui.vercel.app](https://options-yield-ui.vercel.app/)
 
 ## Screenshots/Previews
 
