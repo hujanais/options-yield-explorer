@@ -8,11 +8,11 @@ A weekend hackathon inspiration came to be to write a tool to enable me to brows
 **[Disclaimer: This is purely for me to mess around with coding and deployment and this is not financial advice and any purported financial tool for the public.  This is solely written for myself**]
 
 ## Source code
-Python server code: https://github.com/hujanais/options-yield
+[Python server code](https://github.com/hujanais/options-yield)
 
-Angular 13 UI code : https://github.com/hujanais/options-yield-ui
+[Angular 13 UI code](https://github.com/hujanais/options-yield-ui)
 
-### Put-Options-Yield-Explorer link: https://options-yield-ui.vercel.app/explore
+### [Put-Options-Yield-Explorer hosted link](https://options-yield-ui.vercel.app/)
 
 ## Screenshots/Previews
 
