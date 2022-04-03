@@ -1,9 +1,16 @@
 # Welcome to Put-Options-Yield-Explorer hackathon
+Addendum: I have since added in call-option data as well.  
+
 December 23, 2021
 
-A weekend hackathon inspiration came to be to write a tool to enable me to browse the put-options premiums on some of my favorite stocks to see if I can collect some premiums while I wait for the prices to come down to my entry buy range. 
+A weekend hackathon inspiration came to be to write a tool to enable me to browse the put-options premiums on some of my favorite stocks to see if I can collect some premiums while I wait for the prices to come down to my entry buy range.  What the heck you say I am doing this during the holidays?  Plan A: skiiing with the family, Plan B, son back from college with a positive Covid-test, family quarantine, write code.  
 
 **[Disclaimer: This is purely for me to mess around with coding and deployment and this is not financial advice and any purported financial tool for the public.  This is solely written for myself**]
+
+## Source code
+Python server code: https://github.com/hujanais/options-yield
+
+Angular 13 UI code : https://github.com/hujanais/options-yield-ui
 
 ### Put-Options-Yield-Explorer link: https://options-yield-ui.vercel.app/explore
 
@@ -59,8 +66,3 @@ GET /api/put-options?ticker=rklb&expiry=01-07-2022
 	
 ## UI
 For the UI, I just went with my comfort zone of Angular.  I am using Angular 13 for this.  Not a whole lot to say but I am hosting this on Vercel and using chart-ng2 charting package which has always served me well for visualization.
-
-## Source code
-Python server code: https://github.com/hujanais/options-yield
-
-Angular 13 UI code : https://github.com/hujanais/options-yield-ui
